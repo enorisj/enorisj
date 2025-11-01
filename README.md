@@ -4,7 +4,7 @@ Python, JavaScript and MySQL. Specialized in the development of applications in
 Laravel with several years of experience.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,livewire,boostrap,html,css,tailwind,js,vue,next,typescript,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,bootstrap,html,css,tailwind,js,vue,next,typescript,py,mysql,rabbitmq,git,docker,vscode&perline=5)](https://skillicons.dev)
 
 
 <!--
